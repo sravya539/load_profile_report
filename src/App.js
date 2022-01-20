@@ -5,11 +5,11 @@ import SelectTextFields from './LoadProfileReportpage/LoadProfileReport';
 import SubmitAppScreen from './LoadProfileReportpage/SubmitAppScreen';
 function App() {
   return (
- <>   
-    <Routes>
-      <Route exact path="/" element={<SelectTextFields/>}/>
-    <Route path="/Chart" element={<SubmitAppScreen/>} />
-    </Routes>
+    <>
+      <Routes>
+        <Route exact path="/" element={<SelectTextFields />} />
+        <Route exact path="/chart" element={<SubmitAppScreen />} />
+      </Routes>
     </>
   );
 }

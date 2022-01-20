@@ -5,7 +5,7 @@ import KeyboardArrowRightIcon from '@mui/icons-material/KeyboardArrowRight';
 import { DTR, Feeder, Section, SubStation } from './Dropdown';
 import { v4 as uuidv4 } from 'uuid';
 import { useState } from 'react';
-import { Link } from "@mui/material";
+import { Link } from "react-router-dom";
 import ResponsiveDateRangePicker from './DateDetails';
 import MaterialChart from './SubmitAppScreen';
 
@@ -164,7 +164,7 @@ export default function SelectTextFields() {
           </Typography>
           <TextField
             id="outlined-select-currency-native"
-            name="Ifyoualreadyknowthemeternumberpleaseenterhere:"
+            name="Ifyoualreadyknowthemeternumberpleaseenterhere"
             required
             value={values.Ifyoualreadyknowthemeternumberpleaseenterhere}
             onChange={handleInputChange}
@@ -199,7 +199,7 @@ export default function SelectTextFields() {
         />
       </Grid>
       <Stack spacing={2} direction="row" justifyContent="center">
-        <Button variant="contained" onClick={handleSubmit} ><Link href="Chart" color="inherit" underline="none">SUBMIT</Link></Button>
+        <Button variant="contained" onClick={handleSubmit} ><Link to="/chart" style={{ textDecoration: 'none',textcolor: 'none' }} color="inherit" underline="none">SUBMIT</Link></Button>
         <Button variant="contained" onClick={clear} >CLEAR</Button>
       </Stack>
       <br />

@@ -5,6 +5,7 @@ import DeleteIcon from "@material-ui/icons/Delete";
 import SearchIcon from "@material-ui/icons/Search";
 import SaveIcon from "@material-ui/icons/Save";
 import { Button } from "@material-ui/core";
+import { AppBar } from "@mui/material";
 
 export default function MaterialChart() {
   const [dataStore, setDataStore] = useState([
@@ -13,7 +14,10 @@ export default function MaterialChart() {
 
   return (
     <div className="MaterialChart">
-      <h1>Material-Table Demo</h1>
+      <AppBar
+    title={<img src="C:\Users\Sravya\Downloads\TSSPDCL"/>}
+  />
+      <h1>TELANGANA STATE SOUTHERN POWER DISTRIBUTION COMPANY LIMITED</h1>
       <a
         target="_blank"
         href="https://smartdevpreneur.com/intro-to-material-table-for-react/"
@@ -24,15 +28,15 @@ export default function MaterialChart() {
         <MaterialTable
           columns={[
             {
-              title: "Name",
-              field: "name",
+              title: "S.No",
+              field: "S.No",
               headerStyle: {
-                backgroundColor: "green"
+                backgroundColor: "blue"
               }
             },
             {
-              title: "Occupation",
-              field: "job",
+              title: "Date",
+              field: "Date",
               headerStyle: {
                 backgroundColor: "blue"
               }
@@ -42,7 +46,7 @@ export default function MaterialChart() {
               field: "age",
               type: "numeric",
               headerStyle: {
-                backgroundColor: "red"
+                backgroundColor: "blue"
               }
             }
           ]}
