@@ -1,0 +1,118 @@
+[
+	{
+		"sec_id": 1,
+		"name": ""
+	},
+	{
+        "sec_id": 2,
+        "name" : "AC GUARDS - 9440812995"
+    },
+    {
+        "sec_id": 3,
+        "name": "ABIDS - 9440813011"
+    },
+    {
+        "sec_id": 4,
+        "name": "AMBERPET - 9440813021"
+    },
+    {
+        "sec_id": 5,
+        "name": "ANAND NAGAR - 9440813003"
+    },
+    {
+        "sec_id":"6",
+        "name": "ASHOK NAGAR - 9440813005"
+    },
+    {
+        "sec_id":"7",
+        "name": "ASIFNAGAR - 9440813036"
+    },
+    {
+        "sec_id": "8",
+        "name":"BARKAT PURA - 9440813944"
+    },
+    {
+        "sec_id":"9",
+        "name":"GANDHI NAGAR - 9440813002"
+    },
+    {
+        "sec_id":"10",
+        "name" :"GOLCONDA - 9440813034"
+    },
+    {
+        "sec_id":"11",
+         "name":"GOLNAKA - 9440813024"
+    },
+    {
+        "sec_id":"12",
+        "name":"GUNFOUNDRY - 9440813009"
+    },
+    {
+        "sec_id": "13",
+       "name": "HIMAYAT NAGAR - 9440813012"
+    },
+    {
+        "sec_id":"14",
+        "name": "KACHIGUDA - 9440813018"
+    },
+    {
+        "sec_id":"15",
+         "name":"KAVADIGUDA - 9440813004"
+    },
+    {
+        "sec_id":"16", 
+        "name":"LANGER HOUSE - 9440813041"
+    },
+    {
+        "sec_id": "17",
+        "name":"MASAB TANK - 9440813033"
+    },
+    {
+        "sec_id":"18",
+         "name":"MEHADIPATNAM - 9440813039"
+    },
+    {
+        "sec_id":"19",
+        "name": "MUSHEERABAD - 9440813016"
+    },
+    {
+        "sec_id": "20",
+        "name":"NARAYANA GUDA - 9440813017"
+    },
+    {
+        "sec_id":"21",
+         "name":"RAMALAYAM - 9440813022"
+    },
+    {
+        "sec_id": "22",
+       "name" :"RAMNAGAR - 9440813023"
+    },
+    {
+        "sec_id":"23",
+        "name":"RETHI BOWLI - 9440813032"
+    },
+    {
+        "sec_id":"24",
+         "name":"SAIFABAD - 9440813006"
+    },
+    {
+        "sec_id":"25" ,
+        "name":"SHAIKPET - 9440816318"
+    },
+    {
+        "sec_id":"26",
+         "name":"SHANKARMUTT - 9440813019"
+    },
+    {
+        "sec_id":"27",
+        "name": "SOMAJIGUDA - 9440813013"
+    },
+    {
+        "sec_id": "28",
+        "name":"VIDYA NAGAR - 9440813020"
+    },
+    {
+        "sec_id": "29",
+        "name":"VIJAYA NAGAR COLONY - 9440813035"
+    }
+]

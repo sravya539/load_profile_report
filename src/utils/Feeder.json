@@ -1,0 +1,95 @@
+[
+	{
+		"substa_name": "AC GUARD",
+		"Feeder_id": 1,
+		"name": "BAZARGHAT"
+	},
+	{
+		"substa_name": "AC GUARD",
+		"Feeder_id": 2,
+		"name": "NILOFEUR"
+	},
+	{
+		"substa_name": "AC GUARD",
+		"Feeder_id": 3,
+		"name": "NMDC"
+	},
+	{
+		"substa_name": "AC GUARD",
+		"Feeder_id": 4,
+		"name": "SHANTINAGAR"
+	},
+	{
+		"substa_name": "ALLURI SITA RAMA RAJU",
+		"Feeder_id": 5,
+		"name": "GHMC PARK"
+	},
+	{
+		"substa_name": "LANGER HOUSE",
+		"Feeder_id": 6,
+		"name": "PRASHANTH NAGARL"
+	},
+	{
+		"substa_name": "MALLEPALLY ITI",
+		"Feeder_id": 7,
+		"name": "ANJUMAN NAGAR"
+	},
+	{
+		"substa_name": "MALLEPALLY ITI",
+		"Feeder_id": 8,
+		"name": "P.S.NAGAR"
+	},
+	{
+		"substa_name": "ABIDS - 9440813011",
+		"Feeder_id": 9,
+		"name": "HYDERGUDA"
+	},
+    {
+		"substa_name": "ABIDS - 9440813011",
+		"Feeder_id": 10,
+		"name": "NIZAM COLLEGE"
+	},
+    {
+		"substa_name": "ABIDS - 9440813011",
+		"Feeder_id": 11,
+		"name": "PUBLIC GARDEN"
+	},
+    {
+		"substa_name": "ABIDS - 9440813011",
+		"Feeder_id": 12,
+		"name": "SULTAN BAZAR"
+	},
+    {
+		"substa_name": "ABIDS - 9440813011",
+		"Feeder_id": 13,
+		"name": "VITTALWADI"
+	},
+    {
+		"substa_name": "AMBERPET - 9440813021",
+		"Feeder_id": 14,
+		"name": "AMBERPET"
+	},
+    {
+		"substa_name": "AMBERPET - 9440813021",
+		"Feeder_id": 15,
+		"name": "BATHAKAMMAKUNTA"
+	},
+    {
+		"substa_name": "AMBERPET - 9440813021",
+		"substa_id": 16,
+		"name": "DURGA NAGAR"
+	},
+    {
+		"substa_name": "AMBERPET - 9440813021",
+		"substa_id": 17,
+		"name": "GOLNAKA"
+	},
+    {
+		"sec_name": "AMBERPET - 9440813021",
+		"substa_id": 18,
+		"name": "ZAMISTANPUR"
+	}
+    
+]
+
+
