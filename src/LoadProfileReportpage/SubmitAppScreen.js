@@ -6,7 +6,8 @@ import SearchIcon from "@material-ui/icons/Search";
 import SaveIcon from "@material-ui/icons/Save";
 import { Button } from "@material-ui/core";
 import TSSPDCL from "../assets/TSSPDCL.jpg"
-import { Grid, Typography } from "@mui/material";
+import { Grid, TextField, Typography } from "@mui/material";
+import { Link } from "react-router-dom";
 
 
 export default function MaterialChart() {
@@ -17,6 +18,26 @@ export default function MaterialChart() {
   return (
     <div className="MaterialChart">
       <br />
+      <Grid container direction="row" >
+      <Grid item xs={2}>
+          <Typography>
+          <Link to="/" style={{ textDecoration: 'none',textcolor: 'none' }} color="inherit" underline="none">
+          Generate Other Report
+          </Link>
+          </Typography>
+        </Grid>
+        <Grid item xs={2}>
+          <Typography>
+          Download Report
+          </Typography>
+        </Grid>
+        <Grid item xs={2}>
+          <Typography>
+          Download Report as CSV
+          </Typography>
+        </Grid>
+        <br />
+      </Grid>
       <Grid container direction="row" justifyContent="center" alignContent="center" >
         <Grid item xs={2}>
           <img src={TSSPDCL} width="100px" />

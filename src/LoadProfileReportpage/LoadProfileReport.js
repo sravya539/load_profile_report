@@ -9,30 +9,50 @@ import { Link } from "react-router-dom";
 import ResponsiveDateRangePicker from './DateDetails';
 import MaterialChart from './SubmitAppScreen';
 import Sections from '../utils/Sections.json'
-import SubStations from '../utils/SubStation.json'
+import SubStation from '../utils/SubStation.json'
 import Feeder from '../utils/Feeder.json'
 
 export default function SelectTextFields() {
 
   const [ section, setSection ] = useState([]);
-  const [ SubStation, setSubStation ] = useState([]); 
-  const [ newFeeder, setnewFeeder ] = useState([]);
+  const [ subStation, setsubStation ] = useState([]); 
+  const [newsubsta, setnewsubsta] = useState([]);
+
+  const [ feeder, setfeeder ] = useState([]);
+  const [ newfeeder, setnewfeeder ] = useState([]);
 
 
 
   const onSections = (e) => {
 		console.log(e.target.value);
-		const substas = SubStations.filter((substa) => {
+		const substas = SubStation.filter((substa) => {
 			return substa.sec_name === e.target.value;
 		});
 		console.log(substas);
 		setSection(e.target.value);
-		setSubStation(substas);
+		setsubStation(substas);
 	};
-	const onSubStation = (e) => {
-		console.log(e.target.value);
-		setnewFeeder(e.target.value);
-	};
+
+
+  const onSubStation =(e)=>{
+    console.log(e.target.value);
+    setnewsubsta(e.target.value);
+    const feeders = Feeder.filter((feed) => {
+			return feed.substa_name=== e.target.value;
+		});
+    console.log(feeders);
+		setSection(e.target.value);
+		setfeeder(feeders);
+
+  }
+
+
+     const onSubfeeder= (e)=>{
+      console.log(e.target.value);
+      setnewfeeder(e.target.value);
+     }
+
+
   const initialValues = {
     Sections: '',
     SubStation: '',
@@ -96,58 +116,53 @@ export default function SelectTextFields() {
       <Grid container direction="row" justifyContent="center" alignContent="center" >
 
       <TextField
-							select
-							fullWidth
-							variant="outlined"
-							color="primary"
-							label="section"
-							onChange={onSections}
-							value={section}
-						>
-          	{section.map((sec) => (
-							<MenuItem value={sec.name} key={sec.sec_id}>
-									{sec.name}
-								</MenuItem>
-							))}
-        </TextField>
-        <TextField
-          id="outlined-select-currency-native"
-          onChange={onSubStation}
-          select
-          required
-          label="Sub Station:"
-          value={newFeeder}
-          SelectProps={{
-            native: true,
-          }}          
-        >
-          {SubStation.map((substa) => (
-								<MenuItem value={substa.name} key={substa.substa_id}>
-									{substa.name}
-								</MenuItem>
-							))}
-          ))
-        </TextField>
+            name="sections"
+            select
+            fullWidth
+            variant="outlined"
+            color="primary"
+            label="sections"
+            onChange={onSections}
+            value={section}
+          >
+            {Sections.map((sec) => (
+              <MenuItem value={sec.name} key={sec.sec_id}>
+                {sec.name}
+              </MenuItem>
+            ))}
+          </TextField>
+          <TextField
+            select
+            fullWidth
+            variant="outlined"
+            color="primary"
+            label="sub station"
+            onChange={onSubStation}
+            value={newsubsta}
+          >
+            {subStation.map((substa) => (
+              <MenuItem value={substa.name} key={substa.substa_id}>
+                {substa.name}
+              </MenuItem>
+            ))}
+            </TextField>
       </Grid>
       <Grid container direction="row" justifyContent="center" alignContent="center" >
-        <TextField
-          id="outlined-select-currency-native"
-          select
-          required
-          label="Feeder:"
-          SelectProps={{
-            native: true,
-          }}
-          name="Feeder"
-          value={values.Feeder}
-          onChange={handleInputChange}
-        >
-          {Feeder.map((option) => (
-            <option key={option.value} value={option.label}>
-              {option.label}
-            </option>
-          ))}
-        </TextField>
+      <TextField
+            select
+            fullWidth
+            variant="outlined"
+            color="primary"
+            label="Feeders"
+            onChange={onSubfeeder}
+            value={newfeeder}
+          >
+            {feeder.map((fee) => (
+              <MenuItem value={fee.name} key={fee.Feeder_id}>
+                {fee.name}
+              </MenuItem>
+            ))}
+            </TextField>
         <TextField
           id="outlined-select-currency-native"
           select
