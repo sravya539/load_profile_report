@@ -45,12 +45,6 @@ export default function MaterialChart() {
         </Grid>
         <h2>TELANGANA STATE SOUTHERN POWER DISTRIBUTION COMPANY LIMITED</h2>
       </Grid>
-      <a
-        target="_blank"
-        href="https://smartdevpreneur.com/intro-to-material-table-for-react/"
-      >
-        Click here for an intro to material-table
-      </a>
       <br />
       <br />
       <Grid container direction="row">
