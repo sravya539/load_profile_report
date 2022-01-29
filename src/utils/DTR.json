@@ -302,21 +302,382 @@
     {
 		"Feeder_name": "NILOFEUR",
 		"DTR_id": 61,
-		"name": "ISTIAQ HUSSAIN & OTHERS 10-2-8 1"
+		"name": "JAYA RESIDENCY"
 	},
     {
 		"Feeder_name": "NILOFEUR",
 		"DTR_id": 62,
-		"name": "ISTIAQ HUSSAIN & OTHERS 10-2-8 1"
+		"name": "MAPHER CONSTRUCTI"
 	},
     {
 		"Feeder_name": "NILOFEUR",
 		"DTR_id": 63,
-		"name": "ISTIAQ HUSSAIN & OTHERS 10-2-8 1"
+		"name": "MOGHAL MELORIATE"
 	},
     {
 		"Feeder_name": "NILOFEUR",
-		"DTR_id": 64,
-		"name": "ISTIAQ HUSSAIN & OTHERS 10-2-8 1"
+		"DTR_id": 65,
+		"name": "MOGHAL MELORIATE"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 66,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 67,
+		"name": "P.VIVEK"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 68,
+		"name": "POCHAIAH PT"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 69,
+		"name": "POLICE QUARTERS P"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 70,
+		"name": "QMAR FATHIMA 11-4-646 ACGUARDS"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 71,
+		"name": "RAMIAH & KESHAVLU  11-4-717  717 1 & 717 2"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 72,
+		"name": "RASHI HILLS APT"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 73,
+		"name": "SADAB APT"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 74,
+		"name": "SAI ASHIRVAAD APT"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 75,
+		"name": "SHAIHEEN SHAH QUA"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 76,
+		"name": "SREE VILAS APT"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 77,
+		"name": "TNR CONSTRUCTIONS"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 78,
+		"name": "TOWER PLANNING"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 79,
+		"name": "TOWN PLANNING"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 80,
+		"name": "UMA DEVI"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 81,
+		"name": "VAMSHI PRINT PACK(AYESHA KATHOON)"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 82,
+		"name": "VENKATARAMANA APT"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 83,
+		"name": "VIJAY HILLS APT"
+	},
+	{
+		"Feeder_name": "NILOFEUR",
+		"DTR_id": 84,
+		"name": "VRK.MURTHY"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 85,
+		"name": "ANNAPURNA MANSION"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 86,
+		"name": "ASHOK KUMAR REDDY"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 87,
+		"name": "B.LALITHA GUPTA (10-2-289 120 49 41)"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 88,
+		"name": "BANGARU RAJU & OTHERS"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 89,
+		"name": "CARD BOX"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 90,
+		"name": "FOOD WORLD(OPPSID"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 91,
+		"name": "FOUR SEASONS(SHAJAHAN)"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 92,
+		"name": "HARIGOPAL REDDY"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 93,
+		"name": "J & T DEVELOPERS 10-2-289 33"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 94,
+		"name": "J T DEVELOPERS 10-2-289 40"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 95,
+		"name": "J&T DEVELOPERS  10-2-289 39  S.NAGER"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 96,
+		"name": "JNTU COLLEGE"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 97,
+		"name": "JYOTHI NITYA APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 98,
+		"name": "KAKATIYA MANSON"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 99,
+		"name": "KATTA PT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 100,
+		"name": "M A RAZZAK"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 101,
+		"name": "MANASA APARTMENTS"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 102,
+		"name": "MAPHER COMFORTEK"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 103,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 104,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 105,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 106,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 107,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 108,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 109,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 110,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 111,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 112,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 113,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 114,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 115,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 116,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 117,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 118,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 119,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 120,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 121,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 122,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 123,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 124,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 125,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 126,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 127,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 128,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 129,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 130,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 131,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 132,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 133,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 134,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 135,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 136,
+		"name": "NEAR BRUNDHAVAN APT"
+	},
+	{
+		"Feeder_name": "NMDC",
+		"DTR_id": 137,
+		"name": "NEAR BRUNDHAVAN APT"
 	}
+				
 ]

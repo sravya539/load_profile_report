@@ -40,56 +40,105 @@
 		"name": "P.S.NAGAR"
 	},
 	{
-		"substa_name": "ABIDS - 9440813011",
+		"substa_name": "NAMPALLY",
 		"Feeder_id": 9,
-		"name": "HYDERGUDA"
+		"name": "BADA MASJID"
 	},
     {
-		"substa_name": "ABIDS - 9440813011",
+		"substa_name": "NAMPALLY",
 		"Feeder_id": 10,
-		"name": "NIZAM COLLEGE"
+		"name": "CRIMINAL COURT"
 	},
     {
-		"substa_name": "ABIDS - 9440813011",
+		"substa_name": "NAMPALLY",
 		"Feeder_id": 11,
-		"name": "PUBLIC GARDEN"
+		"name": "FAPCCI"
 	},
     {
-		"substa_name": "ABIDS - 9440813011",
+		"substa_name": "NAMPALLY",
 		"Feeder_id": 12,
-		"name": "SULTAN BAZAR"
+		"name": "PEARL REGENCY"
 	},
     {
-		"substa_name": "ABIDS - 9440813011",
+		"substa_name": "NAMPALLY",
 		"Feeder_id": 13,
-		"name": "VITTALWADI"
+		"name": "RED HILLS"
 	},
     {
-		"substa_name": "AMBERPET - 9440813021",
+		"substa_name": "NAMPALLY",
 		"Feeder_id": 14,
-		"name": "AMBERPET"
+		"name": "VIJAYANAGAR COLONY"
 	},
     {
-		"substa_name": "AMBERPET - 9440813021",
+		"substa_name": "NAMPALLY",
 		"Feeder_id": 15,
-		"name": "BATHAKAMMAKUNTA"
+		"name": "YOUSIFIAN"
 	},
     {
-		"substa_name": "AMBERPET - 9440813021",
-		"substa_id": 16,
-		"name": "DURGA NAGAR"
+		"substa_name": "SD EYE HOSPITAL",
+		"Feeder_id": 16,
+		"name": "CRESCENT HOSPITAL OH"
 	},
     {
-		"substa_name": "AMBERPET - 9440813021",
-		"substa_id": 17,
-		"name": "GOLNAKA"
+		"substa_name": "EXHIBITION GROUND",
+		"Feeder_id": 17,
+		"name": "APPSC"
 	},
     {
-		"sec_name": "AMBERPET - 9440813021",
-		"substa_id": 18,
+		"substa_name": "EXHIBITION GROUND",
+		"Feeder_id": 18,
+		"name": "ZCOLLECTOR OFFICE"
+	},
+	{
+		"substa_name": "EXHIBITION GROUND",
+		"Feeder_id": 19,
+		"name": "GANDHI BHAVAN"
+	},
+    {
+		"substa_name": "EXHIBITION GROUND",
+		"Feeder_id": 20,
+		"name": "JAGADEESH MARKET"
+	},
+	{
+		"substa_name": "EXHIBITION GROUND",
+		"Feeder_id": 21,
+		"name": "JAWAHARLAL NEHRU NAGAR"
+	},
+	{
+		"substa_name": "EXHIBITION GROUND",
+		"Feeder_id": 22,
 		"name": "ZAMISTANPUR"
+	},
+	{
+		"substa_name": "HUSSAIN SAGAR",
+		"Feeder_id": 23,
+		"name": "FATEHMAIDAN"
+	},
+	{
+		"substa_name": "HUSSAIN SAGAR",
+		"Feeder_id": 24,
+		"name": "GUNFOUNDARY"
+	},
+	{
+		"substa_name": "HUSSAIN SAGAR",
+		"Feeder_id": 25,
+		"name": "Z.P. OFFICE"
+	},
+	{
+		"substa_name": "HYDERGUDA",
+		"Feeder_id": 26,
+		"name": "BOGGULAKUNTA"
+	},
+	{
+		"substa_name": "HYDERGUDA",
+		"Feeder_id": 27,
+		"name": "KING KOTHI"
+	},
+	{
+		"substa_name": "NIZAM COLLEGE",
+		"Feeder_id": 28,
+		"name": "KING KOTHI"
 	}
-    
 ]
 
 

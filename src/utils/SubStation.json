@@ -88,8 +88,253 @@
 		"sec_name": "AMBERPET - 9440813021",
 		"substa_id": 18,
 		"name": "ZAMISTANPUR"
+	},
+	{
+		"sec_name": "ANAND NAGAR - 9440813003",
+		"substa_id": 19,
+		"name": "A.C. GUARDS"
+	},
+	{
+		"sec_name": "ANAND NAGAR - 9440813003",
+		"substa_id": 20,
+		"name": "ERRAMANZIL"
+	},
+	{
+		"sec_name": "ANAND NAGAR - 9440813003",
+		"substa_id": 21,
+		"name": "HUSSAIN SAGAR"
+	},
+	{
+		"sec_name": "ANAND NAGAR - 9440813003",
+		"substa_id": 22,
+		"name": "LAKE VIEW"
+	},
+	{
+		"sec_name": "ANAND NAGAR - 9440813003",
+		"substa_id": 23,
+		"name": "NIMS"
+	},
+	{
+		"sec_name": "ANAND NAGAR - 9440813003",
+		"substa_id": 24,
+		"name": "ROAD NO.12"
+	},
+	{
+		"sec_name": "ANAND NAGAR - 9440813003",
+		"substa_id": 25,
+		"name": "Z.P. OFFICE"
+	},
+	{
+		"sec_name": "ASHOK NAGAR - 9440813005",
+		"substa_id": 26,
+		"name": "BAGHLINGAMPALLY"
+	},
+	{
+		"sec_name": "ASHOK NAGAR - 9440813005",
+		"substa_id": 27,
+		"name": "CHILAKALAGUDA"
+	},
+	{
+		"sec_name": "ASHOK NAGAR - 9440813005",
+		"substa_id": 28,
+		"name": "INDIRA PARK"
+	},
+	{
+		"sec_name": "ASHOK NAGAR - 9440813005",
+		"substa_id": 29,
+		"name": "JAWAHAR NAGAR"
+	},
+	{
+		"sec_name": "ASHOK NAGAR - 9440813005",
+		"substa_id": 30,
+		"name": "LUMBINI PARK"
+	},
+	{
+		"sec_name": "ASIFNAGAR - 9440813036",
+		"substa_id": 31,
+		"name": "ALLURI SITA RAMA RAJU"
+	},
+	{
+		"sec_name": "ASIFNAGAR - 9440813036",
+		"substa_id": 32,
+		"name": "ASIFNAGAR"
+	},
+	{
+		"sec_name": "ASIFNAGAR - 9440813036",
+		"substa_id": 33,
+		"name": "GOLCONDA"
+	},
+	{
+		"sec_name": "ASIFNAGAR - 9440813036",
+		"substa_id": 34,
+		"name": "GUDIMALKAPURA"
+	},
+	{
+		"sec_name": "ASIFNAGAR - 9440813036",
+		"substa_id": 35,
+		"name": "MALLEPALLY ITI"
+	},
+	{
+		"sec_name": "ASIFNAGAR - 9440813036",
+		"substa_id": 36,
+		"name": "NAMPALLY"
+	},
+	{
+		"sec_name": "ASIFNAGAR - 9440813036",
+		"substa_id": 37,
+		"name": "SD EYE HOSPITAL"
+	},
+	{
+		"sec_name": "ASIFNAGAR - 9440813036",
+		"substa_id": 38,
+		"name": "SEETHARAM BAGH"
+	},
+	{
+		"sec_name": "ASIFNAGAR - 9440813036",
+		"substa_id": 39,
+		"name": "TOLICHOWKI"
+	},
+	{
+		"sec_name": "BARKAT PURA - 9440813944",
+		"substa_id": 40,
+		"name": "FEVER HOSPITAL"
+	},
+	{
+		"sec_name": "BARKAT PURA - 9440813944",
+		"substa_id": 41,
+		"name": "VITTALWADI"
+	},
+	{
+		"sec_name": "GANDHI NAGAR - 9440813002",
+		"substa_id": 42,
+		"name": "CHILAKALAGUDA"
+	},
+    {
+		"sec_name": "GANDHI NAGAR - 9440813002",
+		"substa_id": 43,
+		"name": "INDIRA PARK"
+	},
+	{
+		"sec_name": "GANDHI NAGAR - 9440813002",
+		"substa_id": 44,
+		"name": "JAWAHAR NAGAR"
+	},
+	{
+		"sec_name": "GOLCONDA - 9440813034",
+		"substa_id": 45,
+		"name": "ASIFNAGAR"
+	},
+	{
+		"sec_name": "GOLCONDA - 9440813034",
+		"substa_id": 46,
+		"name": "GOLCONDA"
+	},
+	{
+		"sec_name": "GOLCONDA - 9440813034",
+		"substa_id": 47,
+		"name": "IBRAHIMBAGH"
+	},
+	{
+		"sec_name": "GOLCONDA - 9440813034",
+		"substa_id": 48,
+		"name": "LANGER HOUSE"
+	},
+	{
+		"sec_name": "GOLCONDA - 9440813034",
+		"substa_id": 49,
+		"name": "MOTI MAHAL"
+	},
+	{
+		"sec_name": "GOLCONDA - 9440813034",
+		"substa_id": 50,
+		"name": "SD EYE HOSPITAL"
+	},
+	{
+		"sec_name": "GOLCONDA - 9440813034",
+		"substa_id": 51,
+		"name": "TOLICHOWKI"
+	},
+	{
+		"sec_name": "GOLNAKA - 9440813024",
+		"substa_id": 52,
+		"name": "AMBERPET"
+	},
+	{
+		"sec_name": "GOLNAKA - 9440813024",
+		"substa_id": 53,
+		"name": "BAGHLINGAMPALLY"
+	},
+	{
+		"sec_name": "GOLNAKA - 9440813024",
+		"substa_id": 54,
+		"name": "BATHAKAMMAKUNTA"
+	},
+	{
+		"sec_name": "GOLNAKA - 9440813024",
+		"substa_id": 55,
+		"name": "DURGA NAGAR"
+	},
+	{
+		"sec_name": "GOLNAKA - 9440813024",
+		"substa_id": 56,
+		"name": "FEVER HOSPITAL"
+	},
+	{
+		"sec_name": "GOLNAKA - 9440813024",
+		"substa_id": 57,
+		"name": "GOLNAKA"
+	},
+	{
+		"sec_name": "GOLNAKA - 9440813024",
+		"substa_id": 58,
+		"name": "INDUSTRIAL AREA"
+	},
+	{
+		"sec_name": "GOLNAKA - 9440813024",
+		"substa_id": 59,
+		"name": "MALLEPALLY ITI"
+	},
+	{
+		"sec_name": "GOLNAKA - 9440813024",
+		"substa_id": 60,
+		"name": "OSMANIA UNIVERSITY"
+	},
+	{
+		"sec_name": "GUNFOUNDRY - 9440813009",
+		"substa_id": 61,
+		"name": "HUSSAIN SAGAR"
+	},
+	{
+		"sec_name": "GUNFOUNDRY - 9440813009",
+		"substa_id": 62,
+		"name": "HYDERGUDA"
+	},
+	{
+		"sec_name": "GUNFOUNDRY - 9440813009",
+		"substa_id": 63,
+		"name": "HUSSAIN SAGAR"
+	},
+	{
+		"sec_name": "GUNFOUNDRY - 9440813009",
+		"substa_id": 64,
+		"name": "HUSSAIN SAGAR"
+	},
+	{
+		"sec_name": "GUNFOUNDRY - 9440813009",
+		"substa_id": 65,
+		"name": "HUSSAIN SAGAR"
+	},
+	{
+		"sec_name": "GUNFOUNDRY - 9440813009",
+		"substa_id": 66,
+		"name": "HUSSAIN SAGAR"
+	},
+	{
+		"sec_name": "GUNFOUNDRY - 9440813009",
+		"substa_id": 67,
+		"name": "HUSSAIN SAGAR"
 	}
-    
+
 ]
 
 

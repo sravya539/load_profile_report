@@ -44,7 +44,6 @@ export default function SelectTextFields() {
       return feed.substa_name === e.target.value;
     });
     console.log(feeders);
-
     setfeeder(feeders);
   }
   const onFeeder = (e) => {
@@ -63,10 +62,7 @@ export default function SelectTextFields() {
   }
 
   const initialValues = {
-    Sections: '',
-    SubStation: '',
-    Feeder: '',
-    DTR: '',
+    
     Meter: '',
     Ifyoualreadyknowthemeternumberpleaseenterhere: '',
     FromDate: '',
@@ -88,12 +84,12 @@ export default function SelectTextFields() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log('InputFields', values);
+    console.log('InputFields', values);  
+    console.log("section:",section);
+    console.log("substation:",newsubsta);
+    console.log("Feeder:",newfeeder);
+    console.log("DTR:",newDTR);
     setValues({
-      Sections: '',
-      SubStation: '',
-      Feeder: '',
-      DTR: '',
       Meter: '',
       Ifyoualreadyknowthemeternumberpleaseenterhere: '',
       FromDate: '',
